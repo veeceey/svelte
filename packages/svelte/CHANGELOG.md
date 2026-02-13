@@ -1,5 +1,11 @@
 # svelte
 
+## 5.51.1
+
+### Patch Changes
+
+- fix: use symbols for encapsulated event delegation ([#17703](https://github.com/sveltejs/svelte/pull/17703))
+
 ## 5.51.0
 
 ### Minor Changes
